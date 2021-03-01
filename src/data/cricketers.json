@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Shakib Al Hasan",
+        "born": "March 24, 1987",
+        "role": "Left-Handed Batsman",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303157.jpg",
+        "salary": 400000
+    },
+    {
+        "id": 2,
+        "name": "Tamim Iqbal",
+        "born": "March 20, 1989",
+        "role": "Left-Handed Batsman",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303166.jpg",
+        "salary": 400000
+    },
+    {
+        "id": 3,
+        "name": "Mushfiqur Rahim",
+        "born": "June 9, 1987",
+        "role": "Right-Handed Batsman",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303148.jpg",
+        "salary": 400000
+    },
+    {
+        "id": 4,
+        "name": "Mahmudullah",
+        "born": "February 4, 1986",
+        "role": "Right-Handed Batsman",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/263500/263581.jpg",
+        "salary": 400000
+    },
+    {
+        "id": 5,
+        "name": "Mashrafe Mortaza",
+        "born": "October 5, 1983",
+        "role": "Right-arm Fast Medium Bowler",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/302900/302999.jpg",
+        "salary": 400000
+    },
+    {
+        "id": 6,
+        "name": "Mustafizur Rahman",
+        "born": "September 6, 1995",
+        "role": "Left-arm medium fast",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/263500/263578.jpg",
+        "salary": 300000
+    },
+    {
+        "id": 7,
+        "name": "Mehidy Hasan Miraz",
+        "born": "October 25, 1997",
+        "role": "Right-Handed Batsman",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303000/303000.jpg",
+        "salary": 200000
+    },
+    {
+        "id": 8,
+        "name": "Soumya Sarkar",
+        "born": "February 25, 1993",
+        "role": "Left-Handed Batsman",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303160.jpg",
+        "salary": 100000
+    },
+    {
+        "id": 9,
+        "name": "Liton Das",
+        "born": "February 16, 1994",
+        "role": "Right-Handed Batsman",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/302900/302995.jpg",
+        "salary": 200000
+    },
+    {
+        "id": 10,
+        "name": "Mominul Haque",
+        "born": "September 29, 1991",
+        "role": "Left-Handed Batsman",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303146.jpg",
+        "salary": 200000
+    },
+    {
+        "id": 11,
+        "name": "Rubel Hossain",
+        "born": "January 1, 1990",
+        "role": "Right arm fast medium",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/263500/263594.jpg",
+        "salary": 300000
+    },
+    {
+        "id": 12,
+        "name": "Imrul Kayes",
+        "born": "February 2, 1987",
+        "role": "Left-Handed Batsman",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/263500/263597.jpg",
+        "salary": 300000
+    },
+    {
+        "id": 13,
+        "name": "Taskin Ahmed",
+        "born": "April 3, 1995",
+        "role": "Right-arm Fast Bowler",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303169.jpg",
+        "salary": 100000
+    },
+    {
+        "id": 14,
+        "name": "Sabbir Rahman",
+        "born": "November 22, 1991",
+        "role": "Right-Handed Batsman",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303200/303247.jpg",
+        "salary": 100000
+    },
+    {
+        "id": 15,
+        "name": "Taijul Islam",
+        "born": "February 7, 1992",
+        "role": "Left-arm Leg Spin Bowler",
+        "country": "Bangladeshi cricketer",
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303164.jpg",
+        "salary": 200000
+    }
+]
